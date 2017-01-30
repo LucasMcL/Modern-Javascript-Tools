@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LucasMcL/Modern-Javascript-Tools#readme",
   "devDependencies": {
+    "grunt": "^1.0.1",
     "node-sass": "^4.4.0"
   }
 }
