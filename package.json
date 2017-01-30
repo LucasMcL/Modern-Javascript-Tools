@@ -1,0 +1,22 @@
+{
+  "name": "modern-javascript-tools",
+  "version": "1.0.0",
+  "description": "In Class demo of different tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMcL/Modern-Javascript-Tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasMcL/Modern-Javascript-Tools/issues"
+  },
+  "homepage": "https://github.com/LucasMcL/Modern-Javascript-Tools#readme",
+  "devDependencies": {
+    "node-sass": "^4.4.0"
+  }
+}

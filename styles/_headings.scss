@@ -1,0 +1,10 @@
+@import 'colors.scss';
+
+.important {
+	h1 {
+		color: $secondarycolor;
+	}
+	p {
+		color: $primarycolor;
+	}
+}
